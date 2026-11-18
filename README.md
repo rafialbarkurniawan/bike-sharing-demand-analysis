@@ -33,7 +33,7 @@ year trends, weather and weekday or weekend.
 
 ## Recommendations
 
-- Add more meaningful insights not just seeing the full of graph, but also can be use the slicer for filter more various kind of data, for example by the Product Paseo, Country Canada, and the year of 2014
+- Add more meaningful insights not just seeing the full of graph, but also can be use the slicer for filter more various kind of data.
 
 ## Files
 
