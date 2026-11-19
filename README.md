@@ -6,7 +6,7 @@ INESC Porto, Campus da FEUP
 Rua Dr. Roberto Frias, 378
 4200 - 465 Porto, Portugal
 
-# Financial Performance Analysis
+# Bike Sharing Demand Analysis
 
 ## Dashboard Preview
 
